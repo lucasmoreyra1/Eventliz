@@ -36,8 +36,8 @@ Este proyecto fue desarrollado en **Laravel** y utiliza las siguientes herramien
 
 - **PHP** 8.x
 - **Composer**
-- **Node.js** y **npm** (para gestionar los assets del frontend)
-- **MySQL** (o tu base de datos preferida)
+- **Node.js** y **npm** (para gestionar frontend)
+- **MySQL**
 
 ## Imagenes
 
